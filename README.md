@@ -35,7 +35,10 @@ puts alan.rating
 
 Output:
 1600
+
 2000
+
 1629
+
 1971
 
