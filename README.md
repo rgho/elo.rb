@@ -23,6 +23,8 @@ newRating (Method of Match class)
 Examples:
 -------------
 ```ruby
+require 'elo.rb'
+
 # Object Oriented Example
 tom = RatedPlayer.new("Tom",1600)
 alan = RatedPlayer.new("Alan",2000)
@@ -33,12 +35,12 @@ puts tom.rating
 puts alan.rating
 ```
 
+```
 Output:
 1600
-
 2000
-
 1629
-
 1971
+```
+
 
